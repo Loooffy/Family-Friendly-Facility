@@ -1,0 +1,109 @@
+// Prisma Schema for Family-Friendly Facilities Map App
+// Using PostgreSQL with PostGIS extension
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// 1. 維度表 (Dimension Tables)
+// 存放城市、行政區、地點類型等基本資料
+
+// 城市表
+model City {
+  id   Int    @id @default(autoincrement())
+  name String @unique @db.VarChar(20) // 例如：臺北市、臺南市
+
+  // Relations
+  districts District[]
+
+  @@map("cities")
+}
+
+// 行政區表
+model District {
+  id     Int    @id @default(autoincrement())
+  cityId Int
+  name   String @db.VarChar(20) // 例如：松山區、歸仁區
+
+  // Relations
+  city      City       @relation(fields: [cityId], references: [id], onDelete: Cascade)
+  locations Location[]
+
+  @@index([cityId])
+  @@map("districts")
+}
+
+// 地點類型表
+model LocationType {
+  id   Int    @id @default(autoincrement())
+  name String @unique @db.VarChar(50) // 例如：特色公園、親子廁所、國小
+
+  // Relations
+  locations Location[]
+
+  @@map("location_types")
+}
+
+// 2. 主資料表 (Main Table)
+// 存放地點的核心資訊，透過 ID 關聯維度表
+
+// 地點表
+model Location {
+  id           Int      @id @default(autoincrement())
+  name         String   @db.VarChar(255) // 地點名稱
+  typeId       Int? // 關聯 location_types.id
+  districtId   Int? // 關聯 districts.id
+  address      String?  @db.Text // 完整地址
+  latitude     Decimal? @db.Decimal(10, 8) // 緯度 (精確度至小數點後 8 位)
+  longitude    Decimal? @db.Decimal(11, 8) // 經度 (精確度至小數點後 8 位)
+  openingHours String?  @db.VarChar(255) // 開放時間 (如：週一至週五 08:30~17:30)
+  link         String?  @db.Text // 外部連結 URL
+  diaper       Boolean  @default(false) // 尿布台 (false: 無, true: 有)
+  note         String?  @db.Text // 備註
+  createdAt    DateTime @default(now())
+
+  // Relations
+  type       LocationType?   @relation(fields: [typeId], references: [id], onDelete: SetNull)
+  district   District?       @relation(fields: [districtId], references: [id], onDelete: SetNull)
+  facilities Facility[]
+  images     LocationImage[]
+
+  @@index([typeId])
+  @@index([districtId])
+  @@map("locations")
+}
+
+// 3. 關聯資料表 (Detail Tables)
+// 處理設施與照片的對應關係
+
+// 設施與遊具明細表 (處理強對應：一個 equipment 對應一個 image)
+model Facility {
+  id            Int     @id @default(autoincrement())
+  locationId    Int // 關聯 locations.id
+  equipmentName String? @db.VarChar(100) // 設施名稱 (如：攀爬架、磨石子滑梯)
+  imageUrl      String? @db.Text // 設施對應的圖片 (若有)
+
+  // Relations
+  location Location @relation(fields: [locationId], references: [id], onDelete: Cascade)
+
+  @@index([locationId])
+  @@map("facilities")
+}
+
+// 地點相簿表 (處理弱對應：地點整體的圖片陣列)
+model LocationImage {
+  id         Int    @id @default(autoincrement())
+  locationId Int // 關聯 locations.id
+  url        String @db.Text // 圖片網址 (如：左岸公園的照片 1, 2, 3)
+
+  // Relations
+  location Location @relation(fields: [locationId], references: [id], onDelete: Cascade)
+
+  @@index([locationId])
+  @@map("location_images")
+}

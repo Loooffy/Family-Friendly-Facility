@@ -1,0 +1,27 @@
+{
+  "name": "family-friendly-facilities",
+  "version": "1.0.0",
+  "private": true,
+  "description": "育兒友善設施地圖 App - Mono-repo",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=frontend & npm run dev --workspace=backend",
+    "build": "npm run build --workspaces",
+    "lint": "npm run lint --workspaces",
+    "typecheck": "npm run typecheck --workspaces",
+    "seed": "npm run seed --workspace=backend",
+    "parse-sample": "npm run parse-sample --workspace=backend",
+    "scrape-new-taipei-parks": "npm run scrape-new-taipei-parks --workspace=backend",
+    "process-local-pdfs": "npm run process-local-pdfs --workspace=backend"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "description": "親子廁所 (JSON)",
+  "totalCount": 1283,
+  "sampleSize": 5,
+  "sample": [
+    {
+      "name": "歸仁文化中心行政大樓3F親子廁",
+      "address": "看西里信義南路78號",
+      "city": "臺南市",
+      "district": "歸仁區",
+      "latitude": 22.964103,
+      "longitude": 120.298059,
+      "link": null,
+      "metadata": {
+        "type2": "文化育樂活動場所",
+        "administration": "臺南市政府文化局",
+        "exec": "臺南市政府文化局",
+        "grade": "特優級",
+        "number": "D280000112",
+        "originalAddress": "臺南市歸仁區看西里信義南路78號"
+      },
+      "source": "公廁建檔",
+      "sourceId": "D280000112"
+    },
+    {
+      "name": "新光三越百貨9F親子廁所",
+      "address": "永和里垂楊路726號",
+      "city": "嘉義市",
+      "district": "西　區",
+      "latitude": 23.473393,
+      "longitude": 120.441352,
+      "link": null,
+      "metadata": {
+        "type2": "商業營業場所",
+        "administration": "新光三越百貨股份有限公司",
+        "exec": "新光三越百貨股份有限公司嘉義垂楊分公司",
+        "grade": "特優級",
+        "number": "I020000607",
+        "originalAddress": "嘉義市西　區永和里垂楊路726號"
+      },
+      "source": "公廁建檔",
+      "sourceId": "I020000607"
+    },
+    {
+      "name": "下營區圖書館1F親子廁",
+      "address": "下營里文化街117號",
+      "city": "臺南市",
+      "district": "下營區",
+      "latitude": 23.235292,
+      "longitude": 120.264443,
+      "link": null,
+      "metadata": {
+        "type2": "文化育樂活動場所",
+        "administration": "下營區公所",
+        "exec": "下營區公所",
+        "grade": "特優級",
+        "number": "D080000012",
+        "originalAddress": "臺南市下營區下營里文化街117號"
+      },
+      "source": "公廁建檔",
+      "sourceId": "D080000012"
+    },
+    {
+      "name": "佳里公園親子廁",
+      "address": "六安里六安２５９號",
+      "city": "臺南市",
+      "district": "佳里區",
+      "latitude": 23.16846,
+      "longitude": 120.178302,
+      "link": null,
+      "metadata": {
+        "type2": "公園",
+        "administration": "佳里區公所",
+        "exec": "佳里區公所",
+        "grade": "特優級",
+        "number": "D120000036",
+        "originalAddress": "臺南市佳里區六安里六安２５９號"
+      },
+      "source": "公廁建檔",
+      "sourceId": "D120000036"
+    },
+    {
+      "name": "臺中市立圖書館(總館)1F-親子廁所",
+      "address": "仁和里豐樂路二段158號",
+      "city": "臺中市",
+      "district": "北屯區",
+      "latitude": 24.19466,
+      "longitude": 120.68001,
+      "link": null,
+      "metadata": {
+        "type2": "文化育樂活動場所",
+        "administration": "臺中市立圖書館(總館)",
+        "exec": "臺中市立圖書館(總館)",
+        "grade": "特優級",
+        "number": "B080000324",
+        "originalAddress": "臺中市北屯區仁和里豐樂路二段158號"
+      },
+      "source": "公廁建檔",
+      "sourceId": "B080000324"
+    }
+  ]
+}

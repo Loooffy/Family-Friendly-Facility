@@ -1,0 +1,808 @@
+{
+  "total_count": 23,
+  "data": [
+    {
+      "location": "潭美國小",
+      "district": "內湖區",
+      "address": "臺北市內湖區行善路179號",
+      "longitude": "121.58107",
+      "latitude": "25.05921",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=0439AECF2E9C6F91",
+      "facilities": [
+        {
+          "equipment_name": "攀爬架",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS82YTE4NzExMy01ZGMwLTQxZTAtYTBlYy1lYzBkZDJjMmE1M2MuanBn&n=MS7mlIDniKzmnrYuanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "傳聲筒",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS8yN2I0NGZjZi0xY2YyLTRlNmItYWEzNy04ZWNjYjdhMzcyMGMuanBn&n=Mi7lgrPogbLnrZIuanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "翹翹板",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS9iOGRkODM3OS0zNjFkLTQ0NGUtOTE0Yy04ODJiOGU4NjFiYWEuanBn&n=My7nv7nnv7nmnb8uanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "盪鞦韆",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS8wMThmNjM3Yi03ODlhLTQ4YzYtYTZiZC1iM2E1NTA2Zjg5ZDguanBn&n=NC7nm6rpnqbpn4YuanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "彈跳床",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS8xY2Q5MzIwMy0yNGRlLTQ2MzUtYWFhOC03NzUwY2IyMWU5NWYuanBn&n=NS7lvYjot7PluoouanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "旋轉盤",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS82ZTJiMWRiOS0yMTAxLTQ5OTQtYTRmNS1mZjNjZmY4ZjY0OWEuanBn&n=Ni7ml4vovYnnm6QuanBn&icon=.jpg"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "古亭國小",
+      "district": "大安區",
+      "address": "臺北市大安區羅斯福路3段201號",
+      "longitude": "121.52848",
+      "latitude": "25.02067",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=06703E1ECDFE5DBC",
+      "facilities": [
+        {
+          "equipment_name": "向日葵魔法陣滾輪滑梯",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS9lMDkxNGE1Ni1lYzJmLTQyNjEtYTNhYi1lNTE2M2ViYTIxYjkuanBn&n=RFNDXzE1MTAuanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "磁力急急棒",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS8yNzczMDdkNi05NjExLTRmNGQtYWJmZS1jYmNmMWE1M2VkNzEuanBn&n=RFNDXzE1MzAuanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "森林冒險互動遊戲區",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS9jZGNiZjQ5Ny1lZjYyLTQ1OWEtYjg2MC00ZDdiYjUzMGM3MmEuanBn&n=MTQ0Mjc0LmpwZw%3d%3d&icon=.jpg"
+        },
+        {
+          "equipment_name": "多感官攀爬架",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS9kZjRlOTQ0Mi05Y2EzLTQ4ODgtYmNlMy01OTIwNzg1MzY0YmEuanBn&n=RFNDXzE1MTkuanBn&icon=.jpg"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "文林國小",
+      "district": "北投區",
+      "address": "臺北市北投區文林北路155號",
+      "longitude": "121.51475",
+      "latitude": "25.10593",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=0586ED4AC41C7965",
+      "facilities": [
+        {
+          "equipment_name": "休憩小站",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS8wNGVkNzUwMC1jMjY0LTRhOTMtYmY3OS0wZjQxZTJjNmE1ZGIuanBn&n=5LyR5oap5bCP56uZLmpwZw%3d%3d&icon=.jpg"
+        },
+        {
+          "equipment_name": "攀岩牆",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS8xNDgzNzY5Ni05ZWQwLTQzN2UtYWJiZi02ODk3ODhmNDhmNjguanBn&n=5rC05rOl5ruR5qKv5pSA5bKpLmpwZw%3d%3d&icon=.jpg"
+        },
+        {
+          "equipment_name": "盪鞦韆",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS83ZjJkNWRhMC04N2VkLTRkNDMtODZhNi0yZGQxMTM3YzZlMTcuanBn&n=6Z6m6Z%2bGLmpwZw%3d%3d&icon=.jpg"
+        },
+        {
+          "equipment_name": "旋轉盤",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS8xYjkxNjIzNS02Yjc1LTRjZDQtODYzZC1hYTAxY2RjNzI0ZTMuanBn&n=5peL6L2J55ukLmpwZw%3d%3d&icon=.jpg"
+        },
+        {
+          "equipment_name": "音樂板",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS8wYzM0YjY5NC0xZDZjLTQ5YzQtYmU0Ny02NzRkNjE2YmU5ZjEuanBn&n=5Z6m5YW3LmpwZw%3d%3d&icon=.jpg"
+        },
+        {
+          "equipment_name": "數字踏樁",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS9mZTcyMGNjMC1mMzE1LTQ1NWUtOWRhZC1hNmM0MDBjYWVhODYuanBn&n=5pW45a2X6LiP5qiBLmpwZw%3d%3d&icon=.jpg"
+        },
+        {
+          "equipment_name": "音樂牆板",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS9iZTViZWJiYS1kMDNiLTRkNjMtODdlOS05Mjg4Zjc4MjE5ZjkucG5n&n=6Z%2bz5qiC54mG5p2%2fLnBuZw%3d%3d&icon=.png"
+        },
+        {
+          "equipment_name": "搖擺船",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS9mMmY0ZTQ4NS01YTQ5LTQxZDYtYWQ3Zi03ZWRmN2JiZDhmMGIuanBn&n=5pCW5pO66Ii5LmpwZw%3d%3d&icon=.jpg"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "建安國小",
+      "district": "大安區",
+      "address": "臺北市大安區大安路2段99號",
+      "longitude": "121.54615",
+      "latitude": "25.02941",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=744378149154FBCA",
+      "facilities": [
+        {
+          "equipment_name": "共融式攀爬架",
+          "image": "https://www-ws.gov.taipei//001/Upload/297/attachment/7419132/7102015173748.jpg"
+        },
+        {
+          "equipment_name": "傳聲筒",
+          "image": "https://www-ws.gov.taipei/001/Upload/342/relpic/40754/7419132/7102015175892.jpg"
+        },
+        {
+          "equipment_name": "翹翹板",
+          "image": "https://www-ws.gov.taipei//001/Upload/297/attachment/7419132/710201517461.jpg"
+        },
+        {
+          "equipment_name": "音樂板及多功能板",
+          "image": "https://www-ws.gov.taipei/001/Upload/342/relpic/40754/7419132/7102015183495.png"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "日新國小",
+      "district": "大同區",
+      "address": "臺北市大同區太原路151號",
+      "longitude": "121.51667",
+      "latitude": "25.0544",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=4372EA9F79EADEC0",
+      "facilities": [
+        {
+          "equipment_name": "大鐵琴"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "興隆國小",
+      "district": "文山區",
+      "address": "臺北市文山區福興路2號",
+      "longitude": "121.55193",
+      "latitude": "25.0024",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=954CDBCCFE03E44F",
+      "facilities": [],
+      "type": "國小"
+    },
+    {
+      "location": "芝山國小",
+      "district": "士林區",
+      "address": "臺北市士林區德行東路285號",
+      "longitude": "121.53648",
+      "latitude": "25.1106",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=A571C856159C2696",
+      "facilities": [
+        {
+          "equipment_name": "平衡木",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS84MTkzOWJhMi0xNzMzLTQ5N2YtYjQ0My1hOGU1YThmZjU1YzEuanBn&n=5bmz6KGh5pyoLmpwZw%3d%3d&icon=.jpg"
+        },
+        {
+          "equipment_name": "三維攀爬網遊具",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS9jMDFiMGJiYi0wNjkwLTQ1M2MtOTIxMi03ZDQ0M2Y0NjkwNjYuanBn&n=U19fNzczNDg5MjkuanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "彈跳床",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS9jMjQ4NjI4Ny1mNTY3LTRjNmYtYjA2YS0yMmVmOWI0NWIzMWMuanBn&n=U19fNzczNDg5MjguanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "抿石子滑梯",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS8zY2JlOTRlNi1jMTRkLTQ4YjItYmY0OS1mY2RmNjZjZmQwZjcuanBn&n=U19fNzczNDg5MjcuanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "鳥巢鞦韆",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS81MjQzYmI2My1lZmM4LTRjMWMtOGRjMy1hM2EyNDc0YjgyMzkuanBn&n=U19fNzczNDg5MjYuanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "轉轉杯",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS85MWJlNDBhOS0wODM1LTRmZGQtOTRkMS1jMGU1YTQ3Yjg5MzYuanBn&n=U19fNzczNDg5MjUuanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "管狀螺旋滑梯",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS9lYTBlMmIwMS0zMGY0LTQ0ZTItYTM2OC04ZTAwNzExNGI5MjAuanBn&n=U19fNzczNDg5MjIuanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "梅花樁",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS80YjE3YzZjMi1jMDVhLTQ2MjktOTFmOS1mZDBjOTQ0ZGZkYjQuanBn&n=U19fNzczNDg5MjQuanBn&icon=.jpg"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "老松國小",
+      "district": "萬華區",
+      "address": "臺北市萬華區桂林路64號",
+      "longitude": "121.50277",
+      "latitude": "25.03802",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=465698F0ED2C5059",
+      "facilities": [
+        {
+          "equipment_name": "攀爬網",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS8wZWNjMzhiOS01ZWE3LTQxYmItYjA5OS01OTAwYjAzMWQ4ZjYuanBn&n=SU1HXzQxNjEuanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "平台攀爬網",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS80MTQ3N2VmNC0xOTE1LTQ0ZmYtYTJkYy00Nzk1ZTdkZDc2YmEuanBn&n=SU1HXzQxNzUuanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "攀爬板",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS9jY2YwMDk1NS1lNDdiLTQ1MWEtODc1Mi0xY2U4Y2FmMWE0NWQuanBn&n=SU1HXzQxNjMuanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "攀爬塊",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS8yYzRjMTdmMS1kNWVhLTRlZjAtYmRiNi1kNjliYzkyOTU3N2EuanBn&n=SU1HXzQxNjYuanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "傳聲筒",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS9mNGIwZGNjOS0wMjQ5LTQzMDMtOWM5YS1hZDVlYjY2MmMyY2YuanBn&n=SU1HXzQxNzEuanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "涵洞",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS81MGU2ODdjMi00ZTk5LTQyYTktOGQ4Mi02MWFjMWNhYTJlZGQuanBn&n=SU1HXzQxNzIuanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "盪鞦韆",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS80YWI0NWI1Yi1kMjg5LTQ0MjQtOGJkMC0wNTg3YjI5NjI5NTkuanBn&n=SU1HXzQxNTUuanBn&icon=.jpg"
+        },
+        {
+          "equipment_name": "遊戲板",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS9kN2Y2Y2Q3Zi1iYjA3LTRkYmYtYThlZi0zZjcyZWE2N2ZkNDcuanBn&n=SU1HXzQxNjAuanBn&icon=.jpg"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "景美國小",
+      "district": "文山區",
+      "address": "臺北市文山區景文街108號",
+      "longitude": "121.54078",
+      "latitude": "24.98948",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=8265876288BA5539",
+      "facilities": [
+        {
+          "equipment_name": "攀爬網",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS8zNzQxYzkyYi0yZmYxLTRlNTMtYTMxYy1jMjgzYjRkZjNjNWQuanBn&n=5pSA54is57ayLmpwZw%3d%3d&icon=.jpg"
+        },
+        {
+          "equipment_name": "感官遊戲組",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS9iOWVjNWJiMy01MWRkLTRhMzMtOTcwOC0xNTE3YTI3ZmZiOTkuanBn&n=5oSf5a6YMS5qcGc%3d&icon=.jpg"
+        },
+        {
+          "equipment_name": "人工草皮區",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS80YmFkYWZjNi02MWY5LTQzM2QtOGM4My1kMjQxOWVmMzIzMDcuanBn&n=6I2J55qu5Y2ALmpwZw%3d%3d&icon=.jpg"
+        },
+        {
+          "equipment_name": "秘密基地（隧道）",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS9kNWQxMWIxYS0xM2IyLTRhODQtOTRmYS1hYWY1NDRlODA1NDcuanBn&n=56eY5a%2bG5Z%2b65ZywLmpwZw%3d%3d&icon=.jpg"
+        },
+        {
+          "equipment_name": "景觀區",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS80NjYxN2JkYy1hYWNiLTRlZDItYTczNS0wNjBjZTVhM2YzYzUuanBn&n=5pmv6KeA5Y2ALmpwZw%3d%3d&icon=.jpg"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "三興國小",
+      "district": "信義區",
+      "address": "臺北市信義區基隆路2段99號",
+      "longitude": "121.55833",
+      "latitude": "25.02947",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=2D8D9E71C35D2E87",
+      "facilities": [
+        {
+          "equipment_name": "體適能攀爬遊戲組",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS81YTgzNjJlZS0xMDRjLTRkNzMtYTM1Yy1mYThkMmMyMWU4MmUuanBn&n=U19fMjM2NDcwMjg1LmpwZw%3d%3d&icon=.jpg"
+        },
+        {
+          "equipment_name": "貓頭鷹造型滑梯組",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS84ZGZjMzlkZC04YjJlLTQ1ZWEtYTFkNC0zYzQzOTUyZWYzZDYuanBn&n=MTcyODE2LmpwZw%3d%3d&icon=.jpg"
+        },
+        {
+          "equipment_name": "大轉椅平衡遊戲組",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS80YTFhY2YyNS1jZWYxLTQzM2EtOWE2NC0xNDc0MTVlNDJkYzQuanBn&n=5aSn6L2J5qSFLmpwZw%3d%3d&icon=.jpg"
+        },
+        {
+          "equipment_name": "觸碰式感官遊戲組",
+          "image": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNjc1L2NrZmlsZS80ZWViZDA3Yy1jN2U4LTQzNzgtOWViYy0wNmZmMTk1ZDAyNzEuanBn&n=MTcyODE1LmpwZw%3d%3d&icon=.jpg"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "天母國小",
+      "district": "士林區",
+      "address": "臺北市士林區天玉街12號",
+      "longitude": "121.52769",
+      "latitude": "25.11998",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=A65688DA6327B148",
+      "facilities": [
+        {
+          "equipment_name": "攀爬網",
+          "image": "image/天母國小/攀爬網.jpg"
+        },
+        {
+          "equipment_name": "攀爬架",
+          "image": "image/天母國小/攀爬架.jpg"
+        },
+        {
+          "equipment_name": "單槓",
+          "image": "image/天母國小/單槓.jpg"
+        },
+        {
+          "equipment_name": "雙桿平梯",
+          "image": "image/天母國小/雙桿平梯.jpg"
+        },
+        {
+          "equipment_name": "石造溜滑梯",
+          "image": "image/天母國小/石造溜滑梯.jpg"
+        },
+        {
+          "equipment_name": "猴梯",
+          "image": "image/天母國小/猴梯.jpg"
+        },
+        {
+          "equipment_name": "溜滑梯組",
+          "image": "image/天母國小/溜滑梯組.jpg"
+        },
+        {
+          "equipment_name": "樹屋溜滑梯",
+          "image": "image/天母國小/樹屋溜滑梯.jpg"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "市大附小",
+      "district": "中正區",
+      "address": "臺北市中正區公園路29號",
+      "longitude": "121.51538",
+      "latitude": "25.03592",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=FF79813E6D3BD253",
+      "facilities": [
+        {
+          "equipment_name": "互動板",
+          "image": "image/市大附小/互動板.jpg"
+        },
+        {
+          "equipment_name": "傳聲筒",
+          "image": "image/市大附小/傳聲筒.jpg"
+        },
+        {
+          "equipment_name": "鐵琴板",
+          "image": "image/市大附小/鐵琴板.jpg"
+        },
+        {
+          "equipment_name": "涵洞",
+          "image": "image/市大附小/涵洞.jpg"
+        },
+        {
+          "equipment_name": "彎曲形溜滑梯",
+          "image": "image/市大附小/彎曲形溜滑梯.jpg"
+        },
+        {
+          "equipment_name": "石造溜滑梯",
+          "image": "image/市大附小/石造溜滑梯.jpg"
+        },
+        {
+          "equipment_name": "樹屋爬繩區",
+          "image": "image/市大附小/樹屋爬繩區.jpg"
+        },
+        {
+          "equipment_name": "攀爬架",
+          "image": "image/市大附小/攀爬架.jpg"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "辛亥國小",
+      "district": "文山區",
+      "address": "臺北市文山區辛亥路四段103號",
+      "longitude": "121.55945",
+      "latitude": "25.00626",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=7C26BA27142FE04E",
+      "facilities": [
+        {
+          "equipment_name": "體能攀爬區",
+          "image": "image/辛亥國小/體能攀爬區.jpg"
+        },
+        {
+          "equipment_name": "傳聲筒",
+          "image": "image/辛亥國小/傳聲筒.jpg"
+        },
+        {
+          "equipment_name": "管狀溜滑梯",
+          "image": "image/辛亥國小/管狀溜滑梯.jpg"
+        },
+        {
+          "equipment_name": "攀繩網",
+          "image": "image/辛亥國小/攀繩網.jpg"
+        },
+        {
+          "equipment_name": "翹翹板",
+          "image": "image/辛亥國小/翹翹板.jpg"
+        },
+        {
+          "equipment_name": "音樂牆版",
+          "image": "image/辛亥國小/音樂牆版.jpg"
+        },
+        {
+          "equipment_name": "溜滑梯",
+          "image": "image/辛亥國小/溜滑梯.jpg"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "松山國小",
+      "district": "松山區",
+      "address": "臺北市松山區八德路四段746號",
+      "longitude": "121.57883",
+      "latitude": "25.05081",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=6264A7D69F36C375",
+      "facilities": [
+        {
+          "equipment_name": "傳聲筒",
+          "image": "image/松山國小/傳聲筒.jpg"
+        },
+        {
+          "equipment_name": "多功能感統觸摸板",
+          "image": "image/松山國小/多功能感統觸摸板.jpg"
+        },
+        {
+          "equipment_name": "多功能觸摸板",
+          "image": "image/松山國小/多功能觸摸板.jpg"
+        },
+        {
+          "equipment_name": "彩色彈性地坪",
+          "image": "image/松山國小/彩色彈性地坪.jpg"
+        },
+        {
+          "equipment_name": "攀爬網及攀爬山坡",
+          "image": "image/松山國小/攀爬網及攀爬山坡.jpg"
+        },
+        {
+          "equipment_name": "旋轉椅遊戲組",
+          "image": "image/松山國小/旋轉椅遊戲組.jpg"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "武功國小",
+      "district": "文山區",
+      "address": "臺北市文山區興隆路1段68號",
+      "longitude": "121.53956",
+      "latitude": "25.00361",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=9BACD8CABE6CBA63",
+      "facilities": [
+        {
+          "equipment_name": "傳聲筒",
+          "image": "image/武功國小/傳聲筒.jpg"
+        },
+        {
+          "equipment_name": "旋轉盪鞦韆",
+          "image": "image/武功國小/旋轉盪鞦韆.jpg"
+        },
+        {
+          "equipment_name": "滾軸溜滑梯",
+          "image": "image/武功國小/滾軸溜滑梯.jpg"
+        },
+        {
+          "equipment_name": "盪鞦韆",
+          "image": "image/武功國小/盪鞦韆.jpg"
+        },
+        {
+          "equipment_name": "管狀溜滑梯",
+          "image": "image/武功國小/管狀溜滑梯.jpg"
+        },
+        {
+          "equipment_name": "翹翹板",
+          "image": "image/武功國小/翹翹板.jpg"
+        },
+        {
+          "equipment_name": "視覺轉盤",
+          "image": "image/武功國小/視覺轉盤.jpg"
+        },
+        {
+          "equipment_name": "遊戲板",
+          "image": "image/武功國小/遊戲板.jpg"
+        },
+        {
+          "equipment_name": "音樂鐘",
+          "image": "image/武功國小/音樂鐘.jpg"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "長安國小",
+      "district": "中山區",
+      "address": "臺北市中山區吉林路15號",
+      "longitude": "121.53048",
+      "latitude": "25.04976",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=3B9D1BF2225A50E9",
+      "facilities": [
+        {
+          "equipment_name": "立體攀爬架",
+          "image": "image/長安國小/立體攀爬架.jpg"
+        },
+        {
+          "equipment_name": "音樂牆板",
+          "image": "image/長安國小/音樂牆板.jpg"
+        },
+        {
+          "equipment_name": "旋轉盤",
+          "image": "image/長安國小/旋轉盤.jpg"
+        },
+        {
+          "equipment_name": "搖搖樂",
+          "image": "image/長安國小/搖搖樂.jpg"
+        },
+        {
+          "equipment_name": "組合式攀爬架",
+          "image": "image/長安國小/組合式攀爬架.jpg"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "修德國小",
+      "district": "南港區",
+      "address": "臺北市南港區東新街118巷86號",
+      "longitude": "121.5897",
+      "latitude": "25.04543",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=6CC2F881A661B3E4",
+      "facilities": [
+        {
+          "equipment_name": "傳聲筒",
+          "image": "image/修德國小/傳聲筒.jpg"
+        },
+        {
+          "equipment_name": "旋轉盪鞦韆",
+          "image": "image/修德國小/旋轉盪鞦韆.jpg"
+        },
+        {
+          "equipment_name": "封閉式溜滑梯",
+          "image": "image/修德國小/封閉式溜滑梯.jpg"
+        },
+        {
+          "equipment_name": "大轉盤",
+          "image": "image/修德國小/大轉盤.jpg"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "南港國小",
+      "district": "南港區",
+      "address": "臺北市南港區惠民街67號",
+      "longitude": "121.61044",
+      "latitude": "25.05749",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=8A06224B5623D459",
+      "facilities": [
+        {
+          "equipment_name": "封閉式溜滑梯",
+          "image": "image/南港國小/封閉式溜滑梯.jpg"
+        },
+        {
+          "equipment_name": "旋轉盪鞦韆",
+          "image": "image/南港國小/旋轉盪鞦韆.jpg"
+        },
+        {
+          "equipment_name": "攀爬網",
+          "image": "image/南港國小/攀爬網.jpg"
+        },
+        {
+          "equipment_name": "猴架",
+          "image": "image/南港國小/猴架.jpg"
+        },
+        {
+          "equipment_name": "傳聲筒",
+          "image": "image/南港國小/傳聲筒.jpg"
+        },
+        {
+          "equipment_name": "串珠。",
+          "image": "image/南港國小/串珠.jpg"
+        },
+        {
+          "equipment_name": "翹翹板",
+          "image": "image/南港國小/翹翹板.jpg"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "內湖國小",
+      "district": "內湖區",
+      "address": "臺北市內湖區內湖路二段41號",
+      "longitude": "121.58053",
+      "latitude": "25.07975",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=BF7C3CF6B75AFDC1",
+      "facilities": [
+        {
+          "equipment_name": "溜滑梯",
+          "image": "image/內湖國小/溜滑梯.jpg"
+        },
+        {
+          "equipment_name": "旋轉盪鞦韆",
+          "image": "image/內湖國小/旋轉盪鞦韆.jpg"
+        },
+        {
+          "equipment_name": "攀爬網",
+          "image": "image/內湖國小/攀爬網.jpg"
+        },
+        {
+          "equipment_name": "攀岩牆",
+          "image": "image/內湖國小/攀岩牆.jpg"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "大橋國小",
+      "district": "大同區",
+      "address": "臺北市大同區重慶北路二段2號",
+      "longitude": "121.51413",
+      "latitude": "25.05429",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=A5288B7556FC5604",
+      "facilities": [
+        {
+          "equipment_name": "挑戰垂直繩鑽龍",
+          "image": "image/大橋國小/垂直繩鑽龍.jpg"
+        },
+        {
+          "equipment_name": "轉盤音樂牆板",
+          "image": "image/大橋國小/轉盤音樂牆板.jpg"
+        },
+        {
+          "equipment_name": "管狀溜滑梯",
+          "image": "image/大橋國小/管狀溜滑梯.jpg"
+        },
+        {
+          "equipment_name": "旋轉視覺板",
+          "image": "image/大橋國小/旋轉視覺板.jpg"
+        },
+        {
+          "equipment_name": "螺旋溜滑梯",
+          "image": "image/大橋國小/螺旋溜滑梯.jpg"
+        },
+        {
+          "equipment_name": "互動牆板",
+          "image": "image/大橋國小/互動牆板.jpg"
+        },
+        {
+          "equipment_name": "鋼琴牆板",
+          "image": "image/大橋國小/鋼琴牆板.jpg"
+        },
+        {
+          "equipment_name": "攀岩牆",
+          "image": "image/大橋國小/攀岩牆.jpg"
+        },
+        {
+          "equipment_name": "猴梯",
+          "image": "image/大橋國小/猴梯.jpg"
+        },
+        {
+          "equipment_name": "鐵琴牆板",
+          "image": "image/大橋國小/鐵琴牆板.jpg"
+        },
+        {
+          "equipment_name": "平衡攀繩",
+          "image": "image/大橋國小/平衡攀繩.jpg"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "桃源國小",
+      "district": "北投區",
+      "address": "臺北市北投區中央北路三段40巷45號",
+      "longitude": "121.48368",
+      "latitude": "25.13968",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=D59D526AAB432DE3",
+      "facilities": [
+        {
+          "equipment_name": "管狀溜滑梯",
+          "image": "image/桃源國小/管狀溜滑梯.jpg"
+        },
+        {
+          "equipment_name": "兩階段攀爬網",
+          "image": "image/桃源國小/兩階段攀爬網.jpg"
+        },
+        {
+          "equipment_name": "涵洞",
+          "image": "image/桃源國小/涵洞.jpg"
+        },
+        {
+          "equipment_name": "立面攀岩牆",
+          "image": "image/桃源國小/立面攀岩牆.jpg"
+        },
+        {
+          "equipment_name": "弧形鑽龍",
+          "image": "image/桃源國小/弧形鑽龍.jpg"
+        },
+        {
+          "equipment_name": "平台溜滑梯",
+          "image": "image/桃源國小/平台溜滑梯.jpg"
+        },
+        {
+          "equipment_name": "盪鞦韆",
+          "image": "image/桃源國小/盪鞦韆.jpg"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "銘傳國小",
+      "district": "大安區",
+      "address": "臺北市大安區羅斯福路4段21號",
+      "longitude": "121.53565",
+      "latitude": "25.01404",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=AB64B85ABC18B917",
+      "facilities": [
+        {
+          "equipment_name": "管狀溜滑梯",
+          "image": "image/銘傳國小/管狀溜滑梯.jpg"
+        },
+        {
+          "equipment_name": "攀爬網連結",
+          "image": "image/銘傳國小/攀爬網.jpg"
+        },
+        {
+          "equipment_name": "涵洞",
+          "image": "image/銘傳國小/涵洞.jpg"
+        },
+        {
+          "equipment_name": "螺旋溜滑梯",
+          "image": "image/銘傳國小/螺旋溜滑梯.jpg"
+        },
+        {
+          "equipment_name": "旋轉盪鞦韆",
+          "image": "image/銘傳國小/旋轉盪鞦韆.jpg"
+        },
+        {
+          "equipment_name": "垂直繩網",
+          "image": "image/銘傳國小/垂直繩網.jpg"
+        },
+        {
+          "equipment_name": "弧形鑽龍",
+          "image": "image/銘傳國小/弧形鑽龍.jpg"
+        },
+        {
+          "equipment_name": "平衡設施組",
+          "image": "image/銘傳國小/平衡設施組.jpg"
+        },
+        {
+          "equipment_name": "平台溜滑梯",
+          "image": "image/銘傳國小/平台溜滑梯.jpg"
+        }
+      ],
+      "type": "國小"
+    },
+    {
+      "location": "永建國小",
+      "district": "文山區",
+      "address": "臺北市文山區木柵路1段311巷1號",
+      "longitude": "121.55537",
+      "latitude": "24.98867",
+      "link": "https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=E0D275EB758266BC",
+      "facilities": [
+        {
+          "equipment_name": "管狀溜滑梯",
+          "image": "image/永建國小/溜滑梯.jpg"
+        },
+        {
+          "equipment_name": "滾輪溜滑梯",
+          "image": "image/永建國小/滾輪溜滑梯.jpg"
+        },
+        {
+          "equipment_name": "遊戲板",
+          "image": "image/永建國小/遊戲板.jpg"
+        },
+        {
+          "equipment_name": "攀爬網",
+          "image": "image/永建國小/攀爬網.jpg"
+        },
+        {
+          "equipment_name": "攀岩牆",
+          "image": "image/永建國小/攀岩牆.jpg"
+        }
+      ],
+      "type": "國小"
+    }
+  ]
+}

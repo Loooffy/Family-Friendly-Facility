@@ -1,0 +1,120 @@
+scalar JSON
+
+type GeoPoint {
+  lat: Float!
+  lng: Float!
+}
+
+type City {
+  id: ID!
+  name: String!
+  nameEn: String
+  code: String
+}
+
+type District {
+  id: ID!
+  name: String!
+  nameEn: String
+  code: String
+  city: City!
+}
+
+type Facility {
+  key: String!
+  name: String!
+  nameEn: String
+  icon: String
+  metadata: JSON
+}
+
+type Place {
+  id: ID!
+  name: String!
+  description: String
+  address: String
+  city: City!
+  district: District!
+  location: GeoPoint!
+  metadata: JSON
+  source: String
+  sourceId: String
+  facilities: [Facility!]!
+  distance: Float # Distance in meters (only available for nearest queries)
+  createdAt: String!
+  updatedAt: String!
+}
+
+type FacilityStat {
+  facilityKey: String!
+  facilityName: String!
+  count: Int!
+}
+
+input BoundsInput {
+  north: Float!
+  south: Float!
+  east: Float!
+  west: Float!
+}
+
+input AddPlaceInput {
+  name: String!
+  address: String
+  description: String
+  lat: Float!
+  lng: Float!
+  facilityKeys: [String!]!
+  metadata: JSON
+}
+
+type PlaceResponse {
+  id: ID!
+  name: String!
+  success: Boolean!
+  message: String
+}
+
+type Query {
+  # 查詢最近的設施
+  nearestPlaces(
+    lat: Float!
+    lng: Float!
+    facilityKey: String!
+    radius: Int = 5000
+    limit: Int = 20
+  ): [Place!]!
+
+  # 查詢地圖範圍內的設施
+  placesInBounds(
+    facilityKey: String!
+    bounds: BoundsInput!
+  ): [Place!]!
+
+  # 查詢多個設施類型的最遠地點
+  nearestPlacesByFacilities(
+    lat: Float!
+    lng: Float!
+    facilityKeys: [String!]!
+    radius: Int! = 5000
+    limit: Int = 20
+  ): [Place!]!
+
+  # 查詢單一地點詳細資訊
+  place(id: ID!): Place
+
+  # 查詢附近設施統計
+  nearbyFacilityStats(
+    lat: Float!
+    lng: Float!
+    radius: Int! = 5000
+  ): [FacilityStat!]!
+
+  # 查詢所有設施類型
+  facilityTypes: [Facility!]!
+}
+
+type Mutation {
+  # 新增地點（使用者回報）
+  addPlace(input: AddPlaceInput!): PlaceResponse!
+}

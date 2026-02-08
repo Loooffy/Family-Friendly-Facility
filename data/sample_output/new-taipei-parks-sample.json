@@ -1,0 +1,139 @@
+{
+  "description": "新北市共融公園 (CSV)",
+  "totalCount": 238,
+  "sampleSize": 5,
+  "sample": [
+    {
+      "name": "商港公園",
+      "address": "新北市八里區商港八路與商港一路口",
+      "city": "新北市",
+      "district": "八里區",
+      "latitude": 25.150187265899604,
+      "longitude": 121.3981245053272,
+      "link": "https://www.ntparks.tw/view-107-01-249.html",
+      "metadata": {
+        "playEquipment": "鯨魚主題，鯨魚造型溜滑梯(共融式)、鞦韆、搖搖樂、共融式旋轉盤、攀爬設施、翹翹板、潛水夫遊戲板",
+        "fitnessEquipment": "肩關節康復器、雙人伸腰伸背器、三人扭腰器、上肢牽引器、雙人漫步機",
+        "description": "八里商港公園為新北市特色公園，全台第一座鯨魚地景的無障礙公園，結合了體建設施及遊戲場，是個適合闔家遊玩的好去處。",
+        "imageLinks": [
+          "https://www.ntparks.tw/images/views/view-107-01-249/Photo-01.jpg",
+          "https://www.ntparks.tw/images/views/view-107-01-249/Photo-02.jpg",
+          "https://www.ntparks.tw/images/views/view-107-01-249/Photo-03.jpg",
+          "https://www.ntparks.tw/images/views/view-107-01-249/Photo-04.jpg",
+          "https://www.ntparks.tw/images/views/view-107-01-249/Photo-05.jpg"
+        ]
+      },
+      "source": "新北市共融特色公園",
+      "sourceId": "ntpc_park_0_商港公園"
+    },
+    {
+      "name": "水興公公園",
+      "address": "新北市八里區觀海大道100號（河濱公園內）",
+      "city": "新北市",
+      "district": "八里區",
+      "latitude": 25.16251905841147,
+      "longitude": 121.42577585042199,
+      "link": "https://www.ntparks.tw/view-107-02-249.html",
+      "metadata": {
+        "playEquipment": "海盜船主題，座椅型鞦韆、共融式旋轉盤、加油站遊戲板、森林城堡遊戲組",
+        "fitnessEquipment": "獨木橋、跳樁",
+        "description": "綠林城堡冒險趣為主題，遊具相當好玩",
+        "imageLinks": [
+          "https://www.ntparks.tw/images/views/view-107-02-249/Photo-01.jpg",
+          "https://www.ntparks.tw/images/views/view-107-02-249/Photo-02.jpg",
+          "https://www.ntparks.tw/images/views/view-107-02-249/Photo-03.jpg",
+          "https://www.ntparks.tw/images/views/view-107-02-249/Photo-04.jpg",
+          "https://www.ntparks.tw/images/views/view-107-02-249/Photo-05.jpg"
+        ]
+      },
+      "source": "新北市共融特色公園",
+      "sourceId": "ntpc_park_1_水興公公園"
+    },
+    {
+      "name": "左岸公園",
+      "address": "新北市八里區觀海大道36號（河濱公園內）",
+      "city": "新北市",
+      "district": "八里區",
+      "latitude": 25.16077748383412,
+      "longitude": 121.42768525027002,
+      "link": "https://www.ntparks.tw/view-107-03-249.html",
+      "metadata": {
+        "playEquipment": "鳥巢型鞦韆、航海船遊",
+        "fitnessEquipment": "鞦韆、跳樁",
+        "description": "航海傳奇遊戲場利用觀海視覺性佳的特性，營造海洋故事的設計主軸。",
+        "imageLinks": [
+          "https://www.ntparks.tw/images/views/view-107-03-249/Photo-01.jpg",
+          "https://www.ntparks.tw/images/views/view-107-03-249/Photo-02.jpg",
+          "https://www.ntparks.tw/images/views/view-107-03-249/Photo-03.jpg",
+          "https://www.ntparks.tw/images/views/view-107-03-249/Photo-04.jpg",
+          "https://www.ntparks.tw/images/views/view-107-03-249/Photo-05.jpg"
+        ]
+      },
+      "source": "新北市共融特色公園",
+      "sourceId": "ntpc_park_2_左岸公園"
+    },
+    {
+      "name": "新北大都會公園",
+      "address": "新北市三重區重新橋至成蘆橋",
+      "city": "新北市",
+      "district": "三重區",
+      "latitude": 25.055468843584723,
+      "longitude": 121.47855721488244,
+      "link": "https://www.ntparks.tw/view-110-24-241.html",
+      "metadata": {
+        "playEquipment": "滾輪溜滑梯、鋼管管狀溜滑梯、磨石子溜滑梯、PVC管狀溜滑梯、滑草場、滑軌、滑索、搖搖盤、山豬搖搖馬、鞦韆、蹦床、傳聲筒、攀爬網、攀爬塊區、攀爬繩、攀爬籠、攀爬座、遊戲牆板、吊橋、跳樁區、洞洞屋、輪輢鞦韆、沙坑、戲水設施",
+        "fitnessEquipment": "大轉輪、大小轉輪手腕運動訓練器、手指階梯蛇型環、曲徑手腕訓練器、抬腿訓練器、太極推揉器、臂力訓練器、記憶遊戲、上肢牽引器",
+        "description": "新北大都會公園（New Taipei Metropolitan Park）面積424公頃，位於三重、新莊、五股、蘆洲之二重疏洪道，為防洪兼具休閒遊憩功能之公園。全長7.7公里，場域規劃分別為生態體驗區(五股濕地、微風運河)、都會運動區(遙控賽車場、籃球場、棒壘球場)、親子休閒區(婚紗廣場、共融遊戲場)。\r\n                \r\n                其中之「熊猴森樂園」從辰光橋至中山橋間長度約800公尺寬50公尺，總面積有4公頃的空間，創造出共融、全齡、充滿趣味及具挑戰刺激性的造型遊樂場樂園。由台灣生態動物意象所組成的溜滑梯及100種不同的遊樂設施，以多種國寶級森林動物齊聚於此，以森林派對嘉年華為設計理念，從空中俯瞰是天空、山岳、森林及溪流等不同主題，結合各式遊具及堤坡特色地景，從64快速公路橋上遠看更是一幅大型地景藝術畫作。並顧及身障孩童需求，特別設計輪椅通道，使其在父母輔助下亦能享受無障礙的遊戲之樂；園區內亦設置輪椅專用之盪鞦韆，讓乘坐輪椅的人士，也可享受盪鞦韆的樂趣，另外瀑布滑草場利用既有堤坡高低差，依地形變化規劃設計，舖設人工草皮，以藍色為背景，打造出瀑布的意象，讓民眾可以來到新北大都會公園享受滑草的樂趣。\r\n                \r\n                「海世界水樂園」，設計係延續「熊猴森樂園」台灣特色動物為主題概念，以臺灣周邊海洋生物為主題，打造7大臺灣特色水中生物，如綠蠵龜、萬里蟹、彈塗魚、寄居蟹、澎湖章魚、海月水母、花園鰻等親水設施消暑好玩，同時可認識台灣特色水中生物。還有5種不同體驗玩法，有360度水霧的彩虹隧道、無障礙的益智水桌、親子互動的大型水槍、手動幫浦等。現場更有更衣間及戶外淋浴區，可供民眾簡單沖洗。\r\n                \r\n                「大黃蜂沙坑」打造出巨型黃色蜜蜂地景的沙坑遊戲場，遊戲場內設置不同類型的兒童遊具，包括首次以貨櫃屋的方式創造小型遊玩空間，設有攀爬及溜滑梯遊具，不但新奇有趣，小朋友也可探索其奧妙。另外，蜜蜂的觸角設置兼顧行動不便孩童遊玩的天旋地轉和旋轉座椅共融遊具，在父母陪同輔助下都能享受無障礙的遊戲樂趣。蜜蜂地景沙坑遊戲場也融入共融性遊具概念，整體場區以大黃蜂意象呈現。此外，仔細看也可發現在巨型蜜蜂內藏著許多小蜜蜂，它們停在蜂巢裡的遮陽棚上陪著小寶貝們一起玩耍，保護大家免受到太陽公公的曝曬。值得一提的是，本遊戲場有個貼心的設計，家長也可以坐在沙坑內的三角飯糰墩座座椅休憩，近距離陪伴小朋友玩耍。",
+        "imageLinks": [
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-01.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-02.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-03.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-04.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-05.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-06.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-07.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-08.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-09.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-10.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-11.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-12.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-13.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-14.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-15.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-16.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-17.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-18.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-19.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-20.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-21.jpg",
+          "https://www.ntparks.tw/images/views/view-110-24-241/Photo-22.jpg"
+        ]
+      },
+      "source": "新北市共融特色公園",
+      "sourceId": "ntpc_park_3_新北大都會公園"
+    },
+    {
+      "name": "六合公園",
+      "address": "新北市三重區自強路二段50巷22號",
+      "city": "新北市",
+      "district": "三重區",
+      "latitude": 25.06905138395596,
+      "longitude": 121.48573831500704,
+      "link": "https://www.ntparks.tw/view-107-06-241.html",
+      "metadata": {
+        "playEquipment": "樹屋造型滑梯、鳥巢型鞦韆、搖搖樂、旋轉飛輪、共融式旋轉盤、沙坑",
+        "fitnessEquipment": "三(雙)人轉腰、坐騎機、漫步機",
+        "description": "六合公園位於自強路二段五十巷內，建於民國82年9月，六合公園為六合、六福、幸福里三里轄區，里民多、使用量大，故設計單位特針對這一點，設計有木平台、成人健身區、兒童遊戲區、香草區等，可滿足各階層里民的需求，園內更採用潔白的大理石舖面。園內最大特色為到處可見向日葵圖騰，遊具彈性地墊上亦漆有向日葵圖騰，讓小孩有接近大自然的感覺，周邊並設計有三組不同動物造型的搖搖樂、鞦韆、單槓等，更令人貼心的是，於主體遊具外，還配置有健身器材轉腰器、漫步機等，此設計主要是考量看顧小孩的成人需求，成人除了可照顧小孩外，還可運動。公園內各項軟硬體設施，值得您帶全家大小前往休憩。",
+        "imageLinks": [
+          "https://www.ntparks.tw/images/views/view-107-06-241/Photo-01.jpg",
+          "https://www.ntparks.tw/images/views/view-107-06-241/Photo-02.jpg",
+          "https://www.ntparks.tw/images/views/view-107-06-241/Photo-03.jpg",
+          "https://www.ntparks.tw/images/views/view-107-06-241/Photo-04.jpg",
+          "https://www.ntparks.tw/images/views/view-107-06-241/Photo-05.jpg"
+        ]
+      },
+      "source": "新北市共融特色公園",
+      "sourceId": "ntpc_park_4_六合公園"
+    }
+  ]
+}

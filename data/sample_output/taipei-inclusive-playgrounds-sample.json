@@ -1,0 +1,82 @@
+{
+  "description": "共融式遊戲場 (CSV)",
+  "totalCount": 108,
+  "sampleSize": 5,
+  "sample": [
+    {
+      "name": "榮富公園",
+      "address": "榮華三路與磺溪旁",
+      "city": "臺北市",
+      "district": "北投區",
+      "latitude": 25.11433,
+      "longitude": 121.5247,
+      "link": "<a target=\"_blank\" href=\"https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=E9C4254FCD906D5B\">連結</a>",
+      "metadata": {
+        "district": "北投區",
+        "originalAddress": "臺北市北投區榮華三路與磺溪旁"
+      },
+      "source": "共融式遊戲場",
+      "sourceId": "playground_榮富公園_25.11433_121.5247"
+    },
+    {
+      "name": "和平青草園公園",
+      "address": "艋舺大道與西園路2段交叉口",
+      "city": "臺北市",
+      "district": "萬華區",
+      "latitude": 25.03267,
+      "longitude": 121.49722,
+      "link": "<a target=\"_blank\" href=\"https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=3AA293074F5855AD\">連結</a>",
+      "metadata": {
+        "district": "萬華區",
+        "originalAddress": "臺北市萬華區艋舺大道與西園路2段交叉口"
+      },
+      "source": "共融式遊戲場",
+      "sourceId": "playground_和平青草園公園_25.03267_121.49722"
+    },
+    {
+      "name": "道南河濱公園(設施維修中暫不開放)",
+      "address": "景美恆光橋下游右側",
+      "city": "臺北市",
+      "district": "文山區",
+      "latitude": 24.98167,
+      "longitude": 121.56869,
+      "link": "<a target=\"_blank\" href=\"https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=65FD5E845AA9F851\">連結</a>",
+      "metadata": {
+        "district": "文山區",
+        "originalAddress": "臺北市文山區景美恆光橋下游右側"
+      },
+      "source": "共融式遊戲場",
+      "sourceId": "playground_道南河濱公園(設施維修中暫不開放)_24.98167_121.56869"
+    },
+    {
+      "name": "山水綠生態公園",
+      "address": "南深路37號",
+      "city": "臺北市",
+      "district": "南港區",
+      "latitude": 25.0293,
+      "longitude": 121.62499,
+      "link": "<a target=\"_blank\" href=\"https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=0155336C3506EE72\">連結</a>",
+      "metadata": {
+        "district": "南港區",
+        "originalAddress": "臺北市南港區南深路37號"
+      },
+      "source": "共融式遊戲場",
+      "sourceId": "playground_山水綠生態公園_25.0293_121.62499"
+    },
+    {
+      "name": "建成公園",
+      "address": "承德路2段35號旁",
+      "city": "臺北市",
+      "district": "大同區",
+      "latitude": 25.05417,
+      "longitude": 121.51858,
+      "link": "<a target=\"_blank\" href=\"https://play4u.gov.taipei/News_Content.aspx?n=4773608F226124D4&sms=7B56BA5392EB632C&s=8F88D647FB637BD2\">連結</a>",
+      "metadata": {
+        "district": "大同區",
+        "originalAddress": "臺北市大同區承德路2段35號旁"
+      },
+      "source": "共融式遊戲場",
+      "sourceId": "playground_建成公園_25.05417_121.51858"
+    }
+  ]
+}

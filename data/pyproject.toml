@@ -1,0 +1,30 @@
+[project]
+name = "family-friendly-facilities-data"
+version = "0.1.0"
+description = "資料處理腳本：從 HTML 提取台北市兒童遊戲場資訊"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "beautifulsoup4>=4.12.0",
+    "lxml>=4.9.0",
+    "requests>=2.31.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "black>=23.0.0",
+    "ruff>=0.1.0",
+]
+
+[tool.uv]
+dev-dependencies = []
+# 這是一個腳本目錄，不需要 build system
+
+[tool.ruff]
+line-length = 100
+target-version = "py38"
+
+[tool.black]
+line-length = 100
+target-version = ["py38"]
