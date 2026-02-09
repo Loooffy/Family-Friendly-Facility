@@ -33,6 +33,7 @@ out/
 .env.test.local
 .env.production.local
 .env*.local
+.env.docker
 
 # Supabase
 # Supabase local development
@@ -68,11 +69,6 @@ supabase/.seed.sql
 ehthumbs.db
 Thumbs.db
 Desktop.ini
-
-# Prisma
-prisma/migrations/
-prisma/*.db
-prisma/*.db-journal
 
 # TypeScript
 *.tsbuildinfo

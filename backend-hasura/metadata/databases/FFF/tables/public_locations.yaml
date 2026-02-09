@@ -1,0 +1,7 @@
+table:
+  name: locations
+  schema: public
+object_relationships:
+  - name: location_type
+    using:
+      foreign_key_constraint_on: typeId

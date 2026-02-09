@@ -6,10 +6,14 @@
 import { writeFileSync } from 'fs';
 import { dirname, join } from 'path';
 import { fileURLToPath } from 'url';
-import { parseNursingRoomsData } from '../backend/scripts/utils/parseNursingRooms.js';
-import { parsePlaygroundsCSV, parseTaipeiPlaygroundsJSON } from '../backend/scripts/utils/parsePlaygrounds.js';
-import { parseToiletsData } from '../backend/scripts/utils/parseToilets.js';
-import { parseNewTaipeiParksCSV } from '../backend/scripts/utils/scrapeNewTaipeiParks.js';
+// NOTE: This file has been replaced by data/parse_sample.py
+// The TypeScript utils have been moved to data/scripts/ and converted to Python
+// Please use: python3 data/parse_sample.py
+
+import { parseNursingRoomsData } from '../scripts/utils/parseNursingRooms.js';
+import { parsePlaygroundsCSV, parseTaipeiPlaygroundsJSON } from '../scripts/utils/parsePlaygrounds.js';
+import { parseToiletsData } from '../scripts/utils/parseToilets.js';
+import { parseNewTaipeiParksCSV } from '../scripts/utils/scrapeNewTaipeiParks.js';
 
 // 在 ESM 模組中取得 __dirname
 const __filename = fileURLToPath(import.meta.url);

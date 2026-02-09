@@ -39,8 +39,8 @@ make run-merge
 # 從專案根目錄執行
 npm install
 
-# 或只安裝 backend 的依賴
-cd backend && npm install
+# 安裝專案依賴（包含 scripts 需要的依賴）
+npm install
 ```
 
 ### 方法 1: 使用 npm 腳本（推薦）
@@ -62,15 +62,12 @@ cd data
 
 ### 方法 3: 直接執行 TypeScript 腳本
 
-從 backend 目錄執行（必須從 backend 目錄執行才能找到依賴）：
+從專案根目錄執行：
 
 ```bash
-cd backend
 npm install  # 如果還沒安裝依賴
-tsx ../data/parse-sample.ts
+tsx data/parse-sample.ts
 ```
-
-**注意**：必須從 `backend` 目錄執行，這樣 Node.js 才能正確解析 `backend/node_modules` 中的依賴（如 `csv-parse`）。
 
 ## 輸出
 

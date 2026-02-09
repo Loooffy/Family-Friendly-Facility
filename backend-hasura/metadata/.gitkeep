@@ -1,0 +1,3 @@
+# This directory will contain Hasura metadata exported from Hasura Cloud
+# To export metadata:
+# hasura metadata export --endpoint https://your-project.hasura.app --admin-secret YOUR_SECRET

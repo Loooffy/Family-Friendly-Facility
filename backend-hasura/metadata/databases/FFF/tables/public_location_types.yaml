@@ -1,0 +1,11 @@
+table:
+  name: location_types
+  schema: public
+array_relationships:
+  - name: locations
+    using:
+      foreign_key_constraint_on:
+        column: typeId
+        table:
+          name: locations
+          schema: public

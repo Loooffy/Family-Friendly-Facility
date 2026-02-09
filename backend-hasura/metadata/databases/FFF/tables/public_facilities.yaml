@@ -1,0 +1,3 @@
+table:
+  name: facilities
+  schema: public
