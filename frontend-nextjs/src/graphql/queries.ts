@@ -1,9 +1,10 @@
 import { gql } from '@apollo/client';
 
 // Query location types (replaces facilityTypes)
+// Hasura 使用 snake_case，表格 location_types 對應的 query 為 location_types
 export const LOCATION_TYPES = gql`
   query LocationTypes {
-    locationTypes {
+    location_types {
       id
       name
     }
@@ -64,28 +65,30 @@ export const NEAREST_PLACES = gql`
   }
 `;
 
-// Query places in bounds by typeId
 export const PLACES_IN_BOUNDS = gql`
-  query PlacesInBounds($typeId: Int, $bounds: BoundsInput!) {
-    placesInBounds(typeId: $typeId, bounds: $bounds) {
+  query PlacesInBounds($typeId: Int!, $north: numeric!, $south: numeric!, $east: numeric!, $west: numeric!) {
+    locations(
+      where: {
+        _and: [
+          { latitude: { _gte: $south, _lte: $north } }
+          { longitude: { _gte: $west, _lte: $east } }
+          { typeId: { _eq: $typeId } }
+        ]
+      }
+    ) {
       id
       name
       address
-      location {
-        lat
-        lng
-      }
-      type {
+      latitude
+      longitude
+      openingHours
+      link
+      diaper
+      note
+      createdAt
+      location_type {
         id
         name
-      }
-      district {
-        id
-        name
-        city {
-          id
-          name
-        }
       }
       facilities {
         id
@@ -94,13 +97,8 @@ export const PLACES_IN_BOUNDS = gql`
       }
       images {
         id
-        url
+        imageUrl
       }
-      openingHours
-      link
-      diaper
-      note
-      createdAt
     }
   }
 `;

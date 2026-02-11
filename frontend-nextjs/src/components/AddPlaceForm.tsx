@@ -18,7 +18,7 @@ export function AddPlaceForm({ lat, lng, onClose, onSuccess }: AddPlaceFormProps
   const { data: locationTypesData } = useQuery(LOCATION_TYPES);
   const [addLocation, { loading }] = useMutation(ADD_LOCATION);
 
-  const locationTypes = locationTypesData?.locationTypes || [];
+  const locationTypes = locationTypesData?.location_types || [];
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();

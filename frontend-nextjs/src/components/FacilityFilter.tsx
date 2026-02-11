@@ -14,7 +14,7 @@ export function FacilityFilter({
   const { data } = useQuery(LOCATION_TYPES);
   const [isOpen, setIsOpen] = useState(false);
 
-  const locationTypes = data?.locationTypes || [];
+  const locationTypes = data?.location_types || [];
 
   const toggleFacility = (typeId: string) => {
     if (selectedFacilities.includes(typeId)) {
