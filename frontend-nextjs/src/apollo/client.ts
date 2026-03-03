@@ -5,13 +5,17 @@ const hasuraUrl = import.meta.env.VITE_HASURA_GRAPHQL_URL || import.meta.env.VIT
 
 const httpLink = new HttpLink({ uri: hasuraUrl });
 
+const adminSecret = import.meta.env.VITE_HASURA_ADMIN_SECRET;
+
 const authLink = new ApolloLink((operation, forward) => {
-  operation.setContext({
-    headers: {
-      'x-hasura-role': 'user',
-      // 'Authorization': `Bearer ${token}` // 如果有 JWT
-    },
-  });
+  const headers: Record<string, string> = {
+    'x-hasura-role': 'user',
+    // 'Authorization': `Bearer ${token}` // 如果有 JWT
+  };
+  if (adminSecret) {
+    headers['x-hasura-admin-secret'] = adminSecret;
+  }
+  operation.setContext({ headers });
   return forward(operation);
 });
 
